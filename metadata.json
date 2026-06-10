@@ -1,0 +1,6 @@
+{
+  "name": "Rashid Dibbo Portfolio",
+  "description": "Portfolio website for Rashid Dibbo, AI Implementation & Automation Specialist.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
